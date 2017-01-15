@@ -18,7 +18,9 @@ date: 2016-10-31 17:18:19
 
 Recently I received my NZ ITP Associate certificate. An Atlantan may wonder 'What on earth is an NZ [In-The-Perimeter](http://www.knowatlanta.com/feature-stories-on-atlanta/itp-vs-otp/) Associate' !?
 
-![](/content/images/2016/10/Morgan-Murrah-NZ-ITP-Certificate-Associate.jpeg)
+
+![](/images/uconstruction.gif)
+
 
 Well ITP actually stands for the Institute of IT Professionals in NZ. [Associate membership is the most junior and entry level status one can gain, which is accurately my status as a new entrant into the field](https://iitp.nz/Join/IT-Professionals).
 
