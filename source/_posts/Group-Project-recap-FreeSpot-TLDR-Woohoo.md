@@ -1,6 +1,6 @@
 ---
 title: 'Group Project recap - ''FreeSpot'' - TLDR: Woohoo!'
-tags: |-
+tags: 
 
   - Web Development
   - group project

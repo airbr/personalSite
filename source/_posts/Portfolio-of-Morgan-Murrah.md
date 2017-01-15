@@ -1,6 +1,6 @@
 ---
 title: Portfolio of Morgan Murrah
-tags: |-
+tags: 
 
   - portfolio
   - Morgan Murrah

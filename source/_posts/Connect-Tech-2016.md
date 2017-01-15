@@ -1,6 +1,6 @@
 ---
 title: Connect.Tech 2016
-tags: |-
+tags: 
 
   - Javascript
   - Connect.Tech

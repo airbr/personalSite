@@ -1,6 +1,6 @@
 ---
 title: 'Atlanta: a drivers guide'
-tags: |-
+tags: 
 
   - Atlanta
   - Driving

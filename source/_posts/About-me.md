@@ -1,6 +1,6 @@
 ---
 title: About me
-tags: |-
+tags:
 
   - Airbridge
   - Enrolled Barrister and Solicitor of the High Court of New Zealand

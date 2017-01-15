@@ -1,6 +1,6 @@
 ---
 title: My schedule for the next few months...
-tags: |-
+tags: 
 
   - Morgan
   - Murrah

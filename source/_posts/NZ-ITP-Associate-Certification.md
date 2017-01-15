@@ -1,6 +1,6 @@
 ---
 title: NZ ITP Associate Certification
-tags: |-
+tags:
 
   - NZ
   - Associate

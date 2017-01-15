@@ -1,6 +1,6 @@
 ---
 title: General Assembly - Best Coding School Award - Creative Loafing Best Of 2016
-tags: |-
+tags: 
 
   - Morgan Murrah
   - Atlanta

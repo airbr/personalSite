@@ -1,6 +1,6 @@
 ---
 title: UX Design Bootcamp blog
-tags: |-
+tags:
 
   - Beau
   - Morgan

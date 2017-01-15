@@ -1,6 +1,6 @@
 ---
 title: Python Bootcamp Recap
-tags: |-
+tags: 
 
   - Web Development
   - Morgan Murrah

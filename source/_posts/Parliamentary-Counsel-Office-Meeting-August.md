@@ -1,6 +1,6 @@
 ---
 title: 'Parliamentary Counsel Office Meeting, August'
-tags: |-
+tags:
 
   - Legolas
   - GovHack
