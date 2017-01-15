@@ -64,8 +64,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: hexo-theme-alpha-dust
-# theme: landscape
-theme: hiker
+theme: landscape
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
