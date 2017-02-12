@@ -1,5 +1,13 @@
 (function($){
 
+  console.log('Hello from script.js');
+
+    $.ajax({
+        url: "https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.8/vue.js",
+        dataType: "script",
+        success: "Hello"
+    });
+
   // Share
   $('body').on('click', function(){
     $('.article-share-box.on').removeClass('on');

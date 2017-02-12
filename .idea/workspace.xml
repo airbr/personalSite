@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28f430ab-e721-40c5-846d-2749fff320bc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/2016/07/31/my-schedule-for-the-next-few-months/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/2016/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/marked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/Linkedin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/Resume/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/Study/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/Time/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/My-schedule-for-the-next-few-months.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bootstrap-blog" afterPath="$PROJECT_DIR$/themes/bootstrap-blog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.json" afterPath="$PROJECT_DIR$/db.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2015/09/28/about/index.html" afterPath="$PROJECT_DIR$/public/2015/09/28/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/06/30/atlanta-a-drivers-guide/index.html" afterPath="$PROJECT_DIR$/public/2016/06/30/atlanta-a-drivers-guide/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/08/18/parliamentary-counsel-office-meeting-august/index.html" afterPath="$PROJECT_DIR$/public/2016/08/18/parliamentary-counsel-office-meeting-august/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/08/28/1-day-python-bootcamp-recap/index.html" afterPath="$PROJECT_DIR$/public/2016/08/28/1-day-python-bootcamp-recap/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/09/06/connect-tech-2016/index.html" afterPath="$PROJECT_DIR$/public/2016/09/06/connect-tech-2016/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/09/10/ux-design-bootcamp-general-assembly-review-morgan-murrah/index.html" afterPath="$PROJECT_DIR$/public/2016/09/10/ux-design-bootcamp-general-assembly-review-morgan-murrah/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/09/20/general-assembly-best-coding-school-award-creative-loafing-best-of-2016/index.html" afterPath="$PROJECT_DIR$/public/2016/09/20/general-assembly-best-coding-school-award-creative-loafing-best-of-2016/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/10/11/freespot/index.html" afterPath="$PROJECT_DIR$/public/2016/10/11/freespot/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2016/10/31/nz-itp-associate-certification/index.html" afterPath="$PROJECT_DIR$/public/2016/10/31/nz-itp-associate-certification/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2017/01/15/WIP/index.html" afterPath="$PROJECT_DIR$/public/2017/01/15/WIP/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2015/09/index.html" afterPath="$PROJECT_DIR$/public/archives/2015/09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2015/index.html" afterPath="$PROJECT_DIR$/public/archives/2015/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2016/06/index.html" afterPath="$PROJECT_DIR$/public/archives/2016/06/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2016/08/index.html" afterPath="$PROJECT_DIR$/public/archives/2016/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2016/09/index.html" afterPath="$PROJECT_DIR$/public/archives/2016/09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2016/10/index.html" afterPath="$PROJECT_DIR$/public/archives/2016/10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2016/index.html" afterPath="$PROJECT_DIR$/public/archives/2016/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2017/01/index.html" afterPath="$PROJECT_DIR$/public/archives/2017/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2017/index.html" afterPath="$PROJECT_DIR$/public/archives/2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/page/2/index.html" afterPath="$PROJECT_DIR$/public/archives/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.css" afterPath="$PROJECT_DIR$/public/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/script.js" afterPath="$PROJECT_DIR$/public/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vue.js" afterPath="$PROJECT_DIR$/public/js/vue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page/2/index.html" afterPath="$PROJECT_DIR$/public/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/2015/index.html" afterPath="$PROJECT_DIR$/public/tags/2015/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/API/index.html" afterPath="$PROJECT_DIR$/public/tags/API/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Advocate/index.html" afterPath="$PROJECT_DIR$/public/tags/Advocate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Airbridge/index.html" afterPath="$PROJECT_DIR$/public/tags/Airbridge/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Associate/index.html" afterPath="$PROJECT_DIR$/public/tags/Associate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Atlanta/index.html" afterPath="$PROJECT_DIR$/public/tags/Atlanta/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/BA/index.html" afterPath="$PROJECT_DIR$/public/tags/BA/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Beau/index.html" afterPath="$PROJECT_DIR$/public/tags/Beau/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Blog/index.html" afterPath="$PROJECT_DIR$/public/tags/Blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Bootcamp/index.html" afterPath="$PROJECT_DIR$/public/tags/Bootcamp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/CV/index.html" afterPath="$PROJECT_DIR$/public/tags/CV/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Classics/index.html" afterPath="$PROJECT_DIR$/public/tags/Classics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Cloud/index.html" afterPath="$PROJECT_DIR$/public/tags/Cloud/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Code-of-Ethics/index.html" afterPath="$PROJECT_DIR$/public/tags/Code-of-Ethics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Code/index.html" afterPath="$PROJECT_DIR$/public/tags/Code/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Coding/index.html" afterPath="$PROJECT_DIR$/public/tags/Coding/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Connect-Tech/index.html" afterPath="$PROJECT_DIR$/public/tags/Connect-Tech/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Counsel/index.html" afterPath="$PROJECT_DIR$/public/tags/Counsel/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Design/index.html" afterPath="$PROJECT_DIR$/public/tags/Design/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Developer/index.html" afterPath="$PROJECT_DIR$/public/tags/Developer/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Development/index.html" afterPath="$PROJECT_DIR$/public/tags/Development/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Digital/index.html" afterPath="$PROJECT_DIR$/public/tags/Digital/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Driving/index.html" afterPath="$PROJECT_DIR$/public/tags/Driving/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Drupal/index.html" afterPath="$PROJECT_DIR$/public/tags/Drupal/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Enrolled-Barrister-and-Solicitor-of-the-High-Court-of-New-Zealand/index.html" afterPath="$PROJECT_DIR$/public/tags/Enrolled-Barrister-and-Solicitor-of-the-High-Court-of-New-Zealand/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/General-Assembly/index.html" afterPath="$PROJECT_DIR$/public/tags/General-Assembly/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Geography/index.html" afterPath="$PROJECT_DIR$/public/tags/Geography/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Georgia/index.html" afterPath="$PROJECT_DIR$/public/tags/Georgia/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Github/index.html" afterPath="$PROJECT_DIR$/public/tags/Github/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/GovHack/index.html" afterPath="$PROJECT_DIR$/public/tags/GovHack/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/HTML/index.html" afterPath="$PROJECT_DIR$/public/tags/HTML/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Hackathon/index.html" afterPath="$PROJECT_DIR$/public/tags/Hackathon/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/IT-Certification/index.html" afterPath="$PROJECT_DIR$/public/tags/IT-Certification/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Institute-of-IT-Professionals/index.html" afterPath="$PROJECT_DIR$/public/tags/Institute-of-IT-Professionals/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Javascript/index.html" afterPath="$PROJECT_DIR$/public/tags/Javascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Jobseeker/index.html" afterPath="$PROJECT_DIR$/public/tags/Jobseeker/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Junior/index.html" afterPath="$PROJECT_DIR$/public/tags/Junior/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Jupyter/index.html" afterPath="$PROJECT_DIR$/public/tags/Jupyter/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/LLB/index.html" afterPath="$PROJECT_DIR$/public/tags/LLB/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Law-Reform/index.html" afterPath="$PROJECT_DIR$/public/tags/Law-Reform/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Law/index.html" afterPath="$PROJECT_DIR$/public/tags/Law/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Lawyer/index.html" afterPath="$PROJECT_DIR$/public/tags/Lawyer/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Legislation/index.html" afterPath="$PROJECT_DIR$/public/tags/Legislation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Legolas/index.html" afterPath="$PROJECT_DIR$/public/tags/Legolas/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Morgan-Murrah/index.html" afterPath="$PROJECT_DIR$/public/tags/Morgan-Murrah/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Morgan/index.html" afterPath="$PROJECT_DIR$/public/tags/Morgan/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Murrah/index.html" afterPath="$PROJECT_DIR$/public/tags/Murrah/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/NZ/index.html" afterPath="$PROJECT_DIR$/public/tags/NZ/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/New-Zealand/index.html" afterPath="$PROJECT_DIR$/public/tags/New-Zealand/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Open-Data/index.html" afterPath="$PROJECT_DIR$/public/tags/Open-Data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Otago/index.html" afterPath="$PROJECT_DIR$/public/tags/Otago/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/PCO/index.html" afterPath="$PROJECT_DIR$/public/tags/PCO/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Parliamentary-Counsel-Office/index.html" afterPath="$PROJECT_DIR$/public/tags/Parliamentary-Counsel-Office/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Ponce-City-Market/index.html" afterPath="$PROJECT_DIR$/public/tags/Ponce-City-Market/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Python/index.html" afterPath="$PROJECT_DIR$/public/tags/Python/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Review/index.html" afterPath="$PROJECT_DIR$/public/tags/Review/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Shopping-Cart/index.html" afterPath="$PROJECT_DIR$/public/tags/Shopping-Cart/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/UI/index.html" afterPath="$PROJECT_DIR$/public/tags/UI/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/UX/index.html" afterPath="$PROJECT_DIR$/public/tags/UX/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Volunteer/index.html" afterPath="$PROJECT_DIR$/public/tags/Volunteer/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/WDI/index.html" afterPath="$PROJECT_DIR$/public/tags/WDI/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Web-Development/index.html" afterPath="$PROJECT_DIR$/public/tags/Web-Development/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/Wireframe/index.html" afterPath="$PROJECT_DIR$/public/tags/Wireframe/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/XML/index.html" afterPath="$PROJECT_DIR$/public/tags/XML/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/XSLT/index.html" afterPath="$PROJECT_DIR$/public/tags/XSLT/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/group-project/index.html" afterPath="$PROJECT_DIR$/public/tags/group-project/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/teamwork/index.html" afterPath="$PROJECT_DIR$/public/tags/teamwork/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/trello/index.html" afterPath="$PROJECT_DIR$/public/tags/trello/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/WIP.md" afterPath="$PROJECT_DIR$/source/_posts/WIP.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/about/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="375">
+                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VUE</find>
+      <find>&quot;Hello MD&quot;</find>
+      <find>Hello MD</find>
+      <find>blog-title</find>
+      <find>about_content</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/bootstrap-blog/source/js/vue.js" />
+        <option value="$PROJECT_DIR$/themes/bootstrap-blog/source/js/script.js" />
+        <option value="$PROJECT_DIR$/source/_posts/WIP.md" />
+        <option value="$PROJECT_DIR$/themes/bootstrap-blog/layout/_partial/article.ejs" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/Progressive-Web-Apps.md" />
+        <option value="$PROJECT_DIR$/themes/bootstrap-blog/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/bootstrap-blog/source/css/custom.css" />
+        <option value="$PROJECT_DIR$/source/about/index.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-254" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personalsite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/bootstrap-blog/source/js" />
+      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f430ab-e721-40c5-846d-2749fff320bc" name="Default" comment="" />
+      <created>1484499847496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484499847496</updated>
+      <workItem from="1484499849191" duration="1402000" />
+      <workItem from="1486924588440" duration="2721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4123000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-254" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18849841" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding>
+            <element signature="e#14471#14477#0" expanded="true" />
+            <element signature="e#14502#14508#0" expanded="true" />
+            <element signature="e#17433#17438#0" expanded="true" />
+            <element signature="e#17446#17451#0" expanded="true" />
+            <element signature="e#37451#37456#0" expanded="true" />
+            <element signature="e#44349#44353#0" expanded="true" />
+            <element signature="e#44353#44357#0" expanded="true" />
+            <element signature="e#44357#44361#0" expanded="true" />
+            <element signature="e#44404#44408#0" expanded="true" />
+            <element signature="e#44408#44412#0" expanded="true" />
+            <element signature="e#44412#44416#0" expanded="true" />
+            <element signature="e#44423#44429#0" expanded="true" />
+            <element signature="e#44442#44448#0" expanded="true" />
+            <element signature="e#44509#44513#0" expanded="true" />
+            <element signature="e#44513#44517#0" expanded="true" />
+            <element signature="e#44517#44521#0" expanded="true" />
+            <element signature="e#44574#44578#0" expanded="true" />
+            <element signature="e#44578#44582#0" expanded="true" />
+            <element signature="e#44582#44586#0" expanded="true" />
+            <element signature="e#48060#48066#0" expanded="true" />
+            <element signature="e#48069#48075#0" expanded="true" />
+            <element signature="e#48077#48083#0" expanded="true" />
+            <element signature="e#48089#48095#0" expanded="true" />
+            <element signature="e#48097#48103#0" expanded="true" />
+            <element signature="e#48106#48112#0" expanded="true" />
+            <element signature="e#48114#48120#0" expanded="true" />
+            <element signature="e#48140#48146#0" expanded="true" />
+            <element signature="e#48148#48154#0" expanded="true" />
+            <element signature="e#48194#48200#0" expanded="true" />
+            <element signature="e#65177#65181#0" expanded="true" />
+            <element signature="e#65194#65200#0" expanded="true" />
+            <element signature="e#65203#65209#0" expanded="true" />
+            <element signature="e#65219#65225#0" expanded="true" />
+            <element signature="e#65230#65236#0" expanded="true" />
+            <element signature="e#65237#65241#0" expanded="true" />
+            <element signature="e#65265#65269#0" expanded="true" />
+            <element signature="e#65285#65291#0" expanded="true" />
+            <element signature="e#65291#65297#0" expanded="true" />
+            <element signature="e#65301#65307#0" expanded="true" />
+            <element signature="e#65315#65321#0" expanded="true" />
+            <element signature="e#65331#65337#0" expanded="true" />
+            <element signature="e#65342#65348#0" expanded="true" />
+            <element signature="e#65358#65364#0" expanded="true" />
+            <element signature="e#65369#65375#0" expanded="true" />
+            <element signature="e#65389#65395#0" expanded="true" />
+            <element signature="e#65397#65403#0" expanded="true" />
+            <element signature="e#65411#65417#0" expanded="true" />
+            <element signature="e#65419#65425#0" expanded="true" />
+            <element signature="e#65435#65441#0" expanded="true" />
+            <element signature="e#65449#65455#0" expanded="true" />
+            <element signature="e#65467#65473#0" expanded="true" />
+            <element signature="e#65483#65489#0" expanded="true" />
+            <element signature="e#65507#65513#0" expanded="true" />
+            <element signature="e#65523#65529#0" expanded="true" />
+            <element signature="e#65536#65542#0" expanded="true" />
+            <element signature="e#65549#65555#0" expanded="true" />
+            <element signature="e#65561#65567#0" expanded="true" />
+            <element signature="e#65571#65577#0" expanded="true" />
+            <element signature="e#65577#65581#0" expanded="true" />
+            <element signature="e#65581#65585#0" expanded="true" />
+            <element signature="e#65594#65600#0" expanded="true" />
+            <element signature="e#65608#65614#0" expanded="true" />
+            <element signature="e#65614#65618#0" expanded="true" />
+            <element signature="e#65618#65622#0" expanded="true" />
+            <element signature="e#65637#65643#0" expanded="true" />
+            <element signature="e#65648#65654#0" expanded="true" />
+            <element signature="e#65654#65658#0" expanded="true" />
+            <element signature="e#65685#65689#0" expanded="true" />
+            <element signature="e#65695#65699#0" expanded="true" />
+            <element signature="e#65699#65703#0" expanded="true" />
+            <element signature="e#65721#65725#0" expanded="true" />
+            <element signature="e#65725#65729#0" expanded="true" />
+            <element signature="e#65743#65749#0" expanded="true" />
+            <element signature="e#65754#65760#0" expanded="true" />
+            <element signature="e#65760#65764#0" expanded="true" />
+            <element signature="e#65764#65768#0" expanded="true" />
+            <element signature="e#65773#65777#0" expanded="true" />
+            <element signature="e#65777#65781#0" expanded="true" />
+            <element signature="e#65793#65797#0" expanded="true" />
+            <element signature="e#65874#65878#0" expanded="true" />
+            <element signature="e#65891#65895#0" expanded="true" />
+            <element signature="e#65895#65899#0" expanded="true" />
+            <element signature="e#65918#65922#0" expanded="true" />
+            <element signature="e#65922#65926#0" expanded="true" />
+            <element signature="e#65932#65936#0" expanded="true" />
+            <marker date="1486926545000" expanded="true" signature="73234:85647" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="85684:90748" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="85732:90739" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85769:85785" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85824:85840" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85883:85899" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85948:85964" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86014:86030" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86078:86094" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86135:86151" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86189:86205" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86245:86261" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86305:86321" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86363:86379" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86419:86435" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86481:86497" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86542:86558" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86599:86615" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86665:86681" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86733:86749" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86799:86815" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86866:86882" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86927:86943" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86990:87008" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87060:87076" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87126:87142" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87188:87204" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87249:87265" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87368:87384" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87497:87513" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87570:87586" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87634:87650" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87695:87711" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87756:87774" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87817:87833" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87874:87890" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87936:87952" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88009:88025" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88102:88118" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88189:88205" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88256:88272" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88319:88337" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88382:88398" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88440:88456" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88494:88510" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88555:88571" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88619:88635" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88684:88702" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91456:91816" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91853:92618" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91911:92609" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91931:92024" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92044:92103" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92123:92236" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92256:92373" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="92322:92327" ph="'" />
+            <marker date="1486926545000" expanded="false" signature="92335:92340" ph="'" />
+            <marker date="1486926545000" expanded="true" signature="92393:92592" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92687:92888" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92713:92878" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92754:92869" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="92762:92768" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <marker date="1484500983000" expanded="true" signature="211435:211444" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/WIP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vueMd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <marker date="1484500983000" expanded="true" signature="211435:211444" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="74" column="35" lean-forward="false" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding>
+            <element signature="e#14471#14477#0" expanded="true" />
+            <element signature="e#14502#14508#0" expanded="true" />
+            <element signature="e#17433#17438#0" expanded="true" />
+            <element signature="e#17446#17451#0" expanded="true" />
+            <element signature="e#37451#37456#0" expanded="true" />
+            <element signature="e#44349#44353#0" expanded="true" />
+            <element signature="e#44353#44357#0" expanded="true" />
+            <element signature="e#44357#44361#0" expanded="true" />
+            <element signature="e#44404#44408#0" expanded="true" />
+            <element signature="e#44408#44412#0" expanded="true" />
+            <element signature="e#44412#44416#0" expanded="true" />
+            <element signature="e#44423#44429#0" expanded="true" />
+            <element signature="e#44442#44448#0" expanded="true" />
+            <element signature="e#44509#44513#0" expanded="true" />
+            <element signature="e#44513#44517#0" expanded="true" />
+            <element signature="e#44517#44521#0" expanded="true" />
+            <element signature="e#44574#44578#0" expanded="true" />
+            <element signature="e#44578#44582#0" expanded="true" />
+            <element signature="e#44582#44586#0" expanded="true" />
+            <element signature="e#48060#48066#0" expanded="true" />
+            <element signature="e#48069#48075#0" expanded="true" />
+            <element signature="e#48077#48083#0" expanded="true" />
+            <element signature="e#48089#48095#0" expanded="true" />
+            <element signature="e#48097#48103#0" expanded="true" />
+            <element signature="e#48106#48112#0" expanded="true" />
+            <element signature="e#48114#48120#0" expanded="true" />
+            <element signature="e#48140#48146#0" expanded="true" />
+            <element signature="e#48148#48154#0" expanded="true" />
+            <element signature="e#48194#48200#0" expanded="true" />
+            <element signature="e#65177#65181#0" expanded="true" />
+            <element signature="e#65194#65200#0" expanded="true" />
+            <element signature="e#65203#65209#0" expanded="true" />
+            <element signature="e#65219#65225#0" expanded="true" />
+            <element signature="e#65230#65236#0" expanded="true" />
+            <element signature="e#65237#65241#0" expanded="true" />
+            <element signature="e#65265#65269#0" expanded="true" />
+            <element signature="e#65285#65291#0" expanded="true" />
+            <element signature="e#65291#65297#0" expanded="true" />
+            <element signature="e#65301#65307#0" expanded="true" />
+            <element signature="e#65315#65321#0" expanded="true" />
+            <element signature="e#65331#65337#0" expanded="true" />
+            <element signature="e#65342#65348#0" expanded="true" />
+            <element signature="e#65358#65364#0" expanded="true" />
+            <element signature="e#65369#65375#0" expanded="true" />
+            <element signature="e#65389#65395#0" expanded="true" />
+            <element signature="e#65397#65403#0" expanded="true" />
+            <element signature="e#65411#65417#0" expanded="true" />
+            <element signature="e#65419#65425#0" expanded="true" />
+            <element signature="e#65435#65441#0" expanded="true" />
+            <element signature="e#65449#65455#0" expanded="true" />
+            <element signature="e#65467#65473#0" expanded="true" />
+            <element signature="e#65483#65489#0" expanded="true" />
+            <element signature="e#65507#65513#0" expanded="true" />
+            <element signature="e#65523#65529#0" expanded="true" />
+            <element signature="e#65536#65542#0" expanded="true" />
+            <element signature="e#65549#65555#0" expanded="true" />
+            <element signature="e#65561#65567#0" expanded="true" />
+            <element signature="e#65571#65577#0" expanded="true" />
+            <element signature="e#65577#65581#0" expanded="true" />
+            <element signature="e#65581#65585#0" expanded="true" />
+            <element signature="e#65594#65600#0" expanded="true" />
+            <element signature="e#65608#65614#0" expanded="true" />
+            <element signature="e#65614#65618#0" expanded="true" />
+            <element signature="e#65618#65622#0" expanded="true" />
+            <element signature="e#65637#65643#0" expanded="true" />
+            <element signature="e#65648#65654#0" expanded="true" />
+            <element signature="e#65654#65658#0" expanded="true" />
+            <element signature="e#65685#65689#0" expanded="true" />
+            <element signature="e#65695#65699#0" expanded="true" />
+            <element signature="e#65699#65703#0" expanded="true" />
+            <element signature="e#65721#65725#0" expanded="true" />
+            <element signature="e#65725#65729#0" expanded="true" />
+            <element signature="e#65743#65749#0" expanded="true" />
+            <element signature="e#65754#65760#0" expanded="true" />
+            <element signature="e#65760#65764#0" expanded="true" />
+            <element signature="e#65764#65768#0" expanded="true" />
+            <element signature="e#65773#65777#0" expanded="true" />
+            <element signature="e#65777#65781#0" expanded="true" />
+            <element signature="e#65793#65797#0" expanded="true" />
+            <element signature="e#65874#65878#0" expanded="true" />
+            <element signature="e#65891#65895#0" expanded="true" />
+            <element signature="e#65895#65899#0" expanded="true" />
+            <element signature="e#65918#65922#0" expanded="true" />
+            <element signature="e#65922#65926#0" expanded="true" />
+            <element signature="e#65932#65936#0" expanded="true" />
+            <marker date="1486926545000" expanded="true" signature="73234:85647" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="85684:90748" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="85732:90739" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85769:85785" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85824:85840" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85883:85899" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="85948:85964" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86014:86030" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86078:86094" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86135:86151" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86189:86205" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86245:86261" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86305:86321" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86363:86379" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86419:86435" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86481:86497" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86542:86558" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86599:86615" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86665:86681" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86733:86749" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86799:86815" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86866:86882" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86927:86943" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="86990:87008" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87060:87076" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87126:87142" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87188:87204" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87249:87265" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87368:87384" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87497:87513" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87570:87586" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87634:87650" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87695:87711" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87756:87774" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87817:87833" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87874:87890" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="87936:87952" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88009:88025" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88102:88118" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88189:88205" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88256:88272" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88319:88337" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88382:88398" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88440:88456" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88494:88510" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88555:88571" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88619:88635" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="88684:88702" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91456:91816" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91853:92618" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91911:92609" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="91931:92024" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92044:92103" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92123:92236" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92256:92373" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="92322:92327" ph="'" />
+            <marker date="1486926545000" expanded="false" signature="92335:92340" ph="'" />
+            <marker date="1486926545000" expanded="true" signature="92393:92592" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92687:92888" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92713:92878" ph="..." />
+            <marker date="1486926545000" expanded="true" signature="92754:92869" ph="..." />
+            <marker date="1486926545000" expanded="false" signature="92762:92768" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Progressive-Web-Apps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="366">
+            <caret line="74" column="422" lean-forward="false" selection-start-line="74" selection-start-column="422" selection-end-line="74" selection-end-column="422" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="74" column="41" lean-forward="false" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/layout/_partial/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/layout/_partial/sidebar.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="193" column="1" lean-forward="false" selection-start-line="193" selection-start-column="1" selection-end-line="193" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/layout/_partial/article.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/WIP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/layout/_widget/about.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/source/css/hexo-base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap-blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

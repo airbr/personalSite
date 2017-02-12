@@ -1,3 +1,6 @@
+console.log('Hello from vue.js');
+
+
 /*!
  * Vue.js v2.1.8
  * (c) 2014-2016 Evan You
