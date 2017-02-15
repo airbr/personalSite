@@ -17,7 +17,7 @@ tags:
 
 ### (So says I....)
 
-Keeping abreast of new developments is essential to web development. It can also be very draining, as many things come and go at an incredible pace particularly in the realm of JavaScript Frameworks. This can be exhausting and install a certain amount of skepticism in adopting or event really having a look at new things, this is sometimes particularly called *JavaScript Fatigue* as the rate of change has been so dramatic in the last few years. 
+Keeping abreast of new developments is essential to web development. It can also be very draining, as many things come and go at an incredible pace particularly in the realm of JavaScript Frameworks. This can be exhausting and can bring about skepticism in adopting or event really having a look at new things. This is sometimes particularly called *JavaScript Fatigue* as the rate of change has been so dramatic in the last few years. 
 
 Many mentors and experienced people I have talked to have instilled this in me some as well as a virtue to hang back and only invest in the 'proven' technologies. However some new developments really do seem to pass muster and persuade me that they are going to be a huge part of the future of web development. (What follows, of course, is also the sometimes pained realization one must find time to learn this new shiny thing when one is already very busy...).
 

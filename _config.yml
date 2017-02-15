@@ -4,11 +4,11 @@
 
 # Site
 title: Morgan WebDev
-subtitle: 
+subtitle: "...'s no frills personal bootstrap blog"
 description:
 author: Morgan Murrah
 language: English
-timezone: 
+timezone: EST
 
 # Menu
 About: /about
