@@ -103,8 +103,6 @@ So what do I mean? First, we should assess what the status quo is. [Credit where
 
 ###### Technical 
 
-![](http://www.lawfoundation.org.nz/style-guide/images/nzlsg_cover.jpg)
-
 [XML Dataset details from the PCO were posted  ](https://data.govt.nz/dataset/show/776)as part of GovHack to give access to the online file structure. 
 
 These directories are public but this information about the file structure allows for greater ease finding and copying material. This is one kind of API- giving practical details of how to interact with a dataset.
