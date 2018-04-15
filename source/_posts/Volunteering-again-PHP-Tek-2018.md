@@ -11,10 +11,16 @@ tags:
 
 Happy to say I am on the list to volunteer at [PHP\[tek\] 2018](https://tek.phparch.com/). 
 
-I have posted a few times on social media about how great I think volunteering at conferences can be. You get to meet people and make new connections in a good atmosphere as you are working together to make an event happen rather- it feels like a more kind of genuine kind of networking.
+I have posted a few times about how great I think volunteering at conferences can be. 
+
+You get to meet people and make new connections in a good atmosphere. It feels better working together to make an event happen rather than just meeting people. It feels like a more kind of genuine kind of networking.
+
+Learning to work with PHP has been one major milestone in my work as a developer for [EasyRx](https://www.easyrxortho.com).
 
 Looking forward to it !
 
 
 
-As a side note- just recently I really passed my first year anniversary of working full time as a web developer- its nice to reflect on how far I have come. Volunteering I believe has been one ingredient in my success. 
+### Also... 
+
+I recently passed my first year anniversary of working full time as a web developer. It is nice to reflect on how far I have come. Volunteering I believe has been one ingredient in my success. 

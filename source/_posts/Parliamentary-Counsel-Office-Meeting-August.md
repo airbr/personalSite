@@ -35,8 +35,6 @@ Project [Legolas.nz](legolas.nz)
 #####**A quick recap**
 In case I haven't told you already... 
 
-![Our humorous parody crest](http://legolas.nz/sites/default/files/sketch-crest.png)
-
 It was great to read about the [2016 GovHack](https://www.govhack.org/) going smoothly. Unfortunately it was not practicable for me to attend on US Eastern time but not for a lack of trying! ('16 hours behind' is pretty off the beat!). [In 2015 I was proud to be part of a team that won the first national spirit of GovHack award. We were also representing New Zealand in Australia in the first GovHack Awards where the official competition included New Zealand.](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
 Like anything else you could make in 46 hours, our project result from 2015 is still a humble looking project. However, it achieved an important proof-of-concept: a first initial set of features that received a warm response from the community and recognition of the Judges of Govhack 2015.

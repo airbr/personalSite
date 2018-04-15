@@ -2,7 +2,6 @@
 title: UX Design Bootcamp blog
 tags:
 
-  - Beau
   - Morgan
   - Murrah
   - WDI
@@ -23,8 +22,6 @@ date: 2016-09-10 17:04:32
 ---
 
 Recap of UX Design Bootcamp at General Assembly instructed by [Jacklyn Cohen == @PlayfulPixel](https://twitter.com/@playfulpixel)
-
-![Hello](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/922/thumb_Building-your-team.jpg)
 
 On September 10th I attended a one-day [User Experience Design Bootcamp](https://generalassemb.ly/education/user-experience-design-bootcamp) at the [General Assembly campus in Atlanta](https://generalassemb.ly/education?where=atlanta). I chose this course along with the [Python Bootcamp](https://www.airbridge.ac.nz/2016/08/28/1-day-python-bootcamp-recap/) as extra courses to take with my in-house credit with GA as a current WDI student. As a current student at GA looking for a new opportunity after graduating I am not really an independent observer of a GA course but will try to write something interesting!
 
@@ -76,8 +73,6 @@ The instructor pointed out in some jobs the work that goes into UX projects incl
 
 Grocery shopping was chosen as an example of a more common denominator example applicable for a 'all-comers' classroom setting to try some UX Design for the bootcamp. My result wireframed an app based around notes from interviews the class conducted:
 
-![](/content/images/2016/09/cards.png)
-
 The 'insights' I took from notes following interviews conducted by our tables were very roughly:
 
 * Everyone has a level of frustration with grocery shopping (including traffic, parking, putting shopping carts away, lack of shopping carts, selection).
@@ -85,9 +80,6 @@ The 'insights' I took from notes following interviews conducted by our tables we
 * Consumers tend to be loyal to stores for a variety of reasons but do not seem to take much concern about particular loyalty schemes such as coupons or cards
 
 My wireframe attempts to depict a "Shopping List 2.0" aimed at this type of user that still grocery shops in-store with loyalty to a particular store. This app will intend to reduce the frustration felt by this user by making planning a shopping trip more enjoyable to enhance this store-loyalty.
-
-![](/content/images/2016/09/cartwireframe.jpg)
-
 
 The wireframed app includes:
 
