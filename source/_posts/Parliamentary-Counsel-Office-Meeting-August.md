@@ -91,10 +91,6 @@ We believe alongside this technical scope that tools meeting the purpose we desc
 I don't think it is splitting hairs to say we may have our own personal political opinions but wish to work on a tool that could be usable by someone of a different opinion. I think it is motivating and would hope to prove something by making a good tool. 
 
 
-The above reasons are why I think it could be a good collaborative open-source project. There are some notable ones where different 'interests' such as the [Jupyter Project](https://jupyter.org/) which combines elements of finance and science, the [Tor Project](https://www.torproject.org/) which combines NGO and Human Rights support as well as support by various Governmental bodies such as US Federal Agencies.
-
-We certainly don't expect superior access to data over anyone else. What we want, with some co-operation, is a "better API" for interfacing with the PCO. [That governance needs a better API is a little bit of a rallying call from GovHack.](https://www.dto.gov.au/blog/hacking-for-better-government-services/)
-
 **Future**
 --
 I suggested in the conference that there are particular features to New Zealand legislation that make it appropriate to develop such particular tools. Development since the weekend so far has been in the form of planning and discussion, also engaging with materials such as the New Zealand Law Style Guide and developments in legislation.

@@ -5,6 +5,6 @@ tags:
 ---
 
 
-## Hello!  This website was recently migrated from the propietary Ghost Blog service at my old url to this new statically generated website.
+## Hello!  This blog was recently migrated from a Ghost Blog hosted service at my old url to this new statically generated Hexo blog website.
 
-### Some things are missing
+### Some things are missing/have been pruned

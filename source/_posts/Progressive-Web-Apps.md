@@ -65,7 +65,7 @@ A Progressive Web App is...
 > 
 > 3. **JavaScript is undoubtedly at the core of this paradigm shift and meeting users desires for consistent, engaging design.**
 
-You might still be wondering Offline web... WHAT? Well what offline-first really means are web apps that only truly need to load once. From that point a service worker starts from the second load and the app should function gracefully even if you are offline or network connection is spotty. You should not get network unavailable/i.e. the "downasaur" even if you have no internet connection.
+Offline-first *really* means are web apps that only truly need to load once. From that point a service worker starts from the second load and the app should function gracefully even if you are offline or network connection is spotty. You should not get network unavailable/i.e. the "downasaur" even if you have no internet connection.
 
 ![](https://qph.ec.quoracdn.net/main-qimg-2726194a5aea31c692cc6ccb06457469)
 **This dinosaur could be becoming extinct if service workers become as standard as they could be...**
@@ -76,4 +76,4 @@ With offline-first applications at a minimum there is never a no internet connec
 
 #### [Pokedex.org](pokedex.org) is an example of an offline-capable website using a serviceworker and database within the browser.
 
-I see a major driver for the future adoption of this offline-first, progressive web app approach is the fact that the resources needed to develop native mobile applications for Android and iOS is more than most organizations have or wish to expend. There are limitations to hybrid mobile app design like using PhoneGap, what I am currently working with on my job, but these hybrid approaches through the appstore could become even more performant with the use of service workers.
+I see a major driver for the future adoption of this offline-first, progressive web app approach is the fact that the resources needed to develop native mobile applications for Android and iOS is more than most organizations have or wish to expend. There are limitations to hybrid mobile app design like using PhoneGap.
